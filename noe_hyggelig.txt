@@ -1,4 +1,5 @@
-# Oppgave 2, Legg til noe hyggelig her: 
+# Oppgave 2, Legg til noe hyggelig her:
+sijane: Alle er hyggelig
 Dette var et kjempebra kurs! 
 Anders sier heihei :)
 Leking er gøy
