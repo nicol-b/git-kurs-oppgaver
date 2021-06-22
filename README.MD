@@ -1,4 +1,4 @@
-# Bachelorproject 2020
+# Sommer 2021
 
 # Oppgaver
 Hvis du står fast kan du gå til (https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) for å se over kommandoer.
@@ -22,7 +22,7 @@ Hvis navn og epost mangler i konfigurasjon må det settes opp:
 
 ## Oppgave 2
 Hent/Clone oppgavene herfra:
-### https://github.com/nicolaizen/git-kurs-oppgaver
+### https://github.com/nicol-b/git-kurs-oppgaver.git
 
 ## Oppgave 3
 Opprett en ny egen branch ut fra master.
